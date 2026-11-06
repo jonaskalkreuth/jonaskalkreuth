@@ -1,7 +1,8 @@
 # Jonas Kalkreuth
 
-Analytical chemist (MSc), transitioning into data analysis and data science.\
-In the lab I learned to question every measurement. Now I apply that to data: clean it carefully, validate models honestly, and document each decision.
+I'm an analytical chemist (MSc) moving into data analysis and data science.\
+My lab work taught me measurement uncertainty, method validation and careful documentation.\
+Those habits carry over directly to working with data.
 
 **Looking for:** part-time or temporary roles in data analysis or data science.\
 **Contact:** [kalkreuthjonas@gmail.com](mailto:kalkreuthjonas@gmail.com)
