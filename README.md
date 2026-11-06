@@ -1,8 +1,7 @@
 # Jonas Kalkreuth | Data Analyst
 
-Chemical engineer (MSc) specialised in analytical chemistry, moving into data analysis and data science.\
-Industrial lab work taught me measurement uncertainty, method validation and careful documentation.\
-Those habits carry over directly to working with data.
+Chemical engineer (MSc) moving into data analytics, with a background in statistics, scientific research and analytical chemistry.\
+I use Python to turn messy datasets into reliable results and practical tools: pipelines, models and dashboards.
 
 **Looking for:** part-time or contract roles in data analysis, Python analytics or scientific data analysis.\
 **Contact:** [kalkreuthjonas@gmail.com](mailto:kalkreuthjonas@gmail.com)
