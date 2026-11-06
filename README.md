@@ -2,9 +2,9 @@
 
 ### Chemical Engineer → Data Analyst
 
-MSc Chemical Engineer with a background in analytical chemistry and scientific research. I'm passionate about data analysis, Python and machine learning, using analytical thinking and programming to solve real-world problems and turn complex data into meaningful insights.
+I'm a chemical engineer (MSc) with industrial experience in analytical chemistry and scientific research. Now I'm moving into data analysis and data science, where I use Python, statistics and machine learning to solve practical problems and turn messy data into clear answers.
 
-Currently expanding my skills in Data Science, statistical modeling and automation.
+I'm currently building my skills in statistical modelling and automation.
 
 **Looking for:** part-time or contract roles in data analytics and scientific data analysis.\
 **Contact:** [kalkreuthjonas@gmail.com](mailto:kalkreuthjonas@gmail.com)
