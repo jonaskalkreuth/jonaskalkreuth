@@ -1,9 +1,10 @@
-# Hi, I'm Jonas Kalkreuth 👋
+# Hi, I'm Jonas 👋
 
 ### Chemical Engineer → Data Analyst
 
-I'm a chemical engineer (MSc) who worked in industrial analytical chemistry and scientific research.\
-Now I'm moving into data analytics. I use Python, statistics and machine learning to turn messy datasets into results people can trust.
+MSc Chemical Engineer with a background in analytical chemistry and scientific research. I'm passionate about data analysis, Python and machine learning, using analytical thinking and programming to solve real-world problems and turn complex data into meaningful insights.
+
+Currently expanding my skills in Data Science, statistical modeling and automation.
 
 **Looking for:** part-time or contract roles in data analytics and scientific data analysis.\
 **Contact:** [kalkreuthjonas@gmail.com](mailto:kalkreuthjonas@gmail.com)
