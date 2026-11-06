@@ -1,11 +1,21 @@
-# Jonas Kalkreuth
+# Jonas Kalkreuth | Data Analyst
 
-I'm an analytical chemist (MSc) moving into data analysis and data science.\
-My lab work taught me measurement uncertainty, method validation and careful documentation.\
+Chemical engineer (MSc) specialised in analytical chemistry, moving into data analysis and data science.\
+Industrial lab work taught me measurement uncertainty, method validation and careful documentation.\
 Those habits carry over directly to working with data.
 
-**Looking for:** part-time or temporary roles in data analysis or data science.\
+**Looking for:** part-time or contract roles in data analysis, Python analytics or scientific data analysis.\
 **Contact:** [kalkreuthjonas@gmail.com](mailto:kalkreuthjonas@gmail.com)
+
+## Core skills
+
+- Python, pandas, NumPy, scikit-learn
+- Statistical analysis, regression and machine learning
+- Data cleaning, validation and preprocessing
+- SQL, SQLite, DuckDB
+- Data visualisation with Plotly and Streamlit
+- API integration, automation, pytest and GitHub Actions
+- Infrared spectroscopy (FTIR / ATR-IR) and chemometrics
 
 ## Projects
 
@@ -44,10 +54,3 @@ It has collected 4,300 distinct jobs from four sources since June 2026.\
 Predicts quiet days at Europa-Park before the season starts, using only calendar information.\
 A ridge model beats two simple baselines on quiet-day precision in both test seasons.\
 `time series` · `scikit-learn` · `uv` · `ADRs`
-
-## Tools
-
-**Daily:** Python, pandas, NumPy, scikit-learn, pytest, Git, GitHub Actions\
-**Also used:** SQLite, DuckDB, Streamlit, Plotly, Jupyter\
-**Learning now:** SQL (window functions, CTEs)\
-**Lab background:** FTIR / ATR-IR, TG-FTIR, chemometrics
