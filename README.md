@@ -4,7 +4,7 @@
 
 I'm a chemical engineer (MSc) with industrial experience in analytical chemistry and scientific research. Now I'm moving into data analysis and data science, where I use Python, statistics and machine learning to solve practical problems and turn messy data into clear answers.
 
-I'm currently building my skills in statistical modelling and automation.
+Right now I'm deepening my SQL and turning my projects into automated data pipelines.
 
 **Looking for:** part-time or contract roles in data analytics and scientific data analysis.\
 **Contact:** [kalkreuthjonas@gmail.com](mailto:kalkreuthjonas@gmail.com)
