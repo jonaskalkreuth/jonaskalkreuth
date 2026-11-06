@@ -1,6 +1,6 @@
 # Hi, I'm Jonas 👋
 
-### Chemical Engineer → Data Analyst
+### From analytical chemistry to data science
 
 I'm a chemical engineer (MSc) with industrial experience in analytical chemistry and scientific research. Now I'm moving into data analysis and data science, where I use Python, statistics and machine learning to solve practical problems and turn messy data into clear answers.
 
