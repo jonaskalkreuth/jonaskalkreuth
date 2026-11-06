@@ -1,22 +1,22 @@
-# Jonas Kalkreuth | Data Analyst
+# Hi, I'm Jonas Kalkreuth 👋
 
-Chemical engineer (MSc) moving into data analytics, with a background in statistics, scientific research and analytical chemistry.\
-I use Python to turn messy datasets into reliable results and practical tools: pipelines, models and dashboards.
+### Chemical Engineer → Data Analyst
 
-**Looking for:** part-time or contract roles in data analysis, Python analytics or scientific data analysis.\
+I'm a chemical engineer (MSc) who worked in industrial analytical chemistry and scientific research.\
+Now I'm moving into data analytics. I use Python, statistics and machine learning to turn messy datasets into results people can trust.
+
+**Looking for:** part-time or contract roles in data analytics and scientific data analysis.\
 **Contact:** [kalkreuthjonas@gmail.com](mailto:kalkreuthjonas@gmail.com)
 
-## Core skills
+## 🛠️ Skills
 
-- Python, pandas, NumPy, scikit-learn
-- Statistical analysis, regression and machine learning
-- Data cleaning, validation and preprocessing
-- SQL, SQLite, DuckDB
-- Data visualisation with Plotly and Streamlit
-- API integration, automation, pytest and GitHub Actions
-- Infrared spectroscopy (FTIR / ATR-IR) and chemometrics
+- **Programming:** Python, pandas, NumPy
+- **Data analysis:** exploratory analysis, statistics, regression, data cleaning
+- **Machine learning:** scikit-learn, classification, regression, model evaluation
+- **Data and visualisation:** SQL, SQLite, DuckDB, Streamlit, Plotly
+- **Scientific computing:** spectroscopy, signal processing, chemometrics, PLS regression
 
-## Projects
+## 🚀 Projects
 
 ### Finished
 
