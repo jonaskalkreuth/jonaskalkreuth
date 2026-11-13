@@ -37,6 +37,12 @@ Turns a year of bank and PayPal exports into a German EÜR tax figure.\
 It removes double-counted transfers between own accounts first. Runs on synthetic demo data.\
 `pandas` · `reconciliation` · `Excel` · `Plotly`
 
+**[SQL analysis of job postings](https://github.com/jonaskalkreuth/job-scraping#sql-analysis-duckdb)** — part of job-scraping\
+Compares skill demand for data roles in Switzerland, Germany and Spain, written in plain SQL on DuckDB.\
+An audit first finds 2,609 duplicate rows among 7,182 postings, so each job counts once.\
+AI and machine learning lead everywhere, but Switzerland favours statistics over Power BI.\
+`SQL` · `DuckDB` · `window functions` · `gaps-and-islands`
+
 ### In progress
 
 **[carbonate-cement-PLS](https://github.com/jonaskalkreuth/carbonate-cement-PLS)**\
